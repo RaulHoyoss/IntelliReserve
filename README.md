@@ -86,10 +86,10 @@ IntelliReserve is partially completed. The following features are planned to enh
 ### BUSINESS
 
 #### Home Business
-![Home Business](Images/business.png)
+![Home Business](Images/main_business.png)
 
 #### Create / Edit Services
-![Create Service](Images/create-edit-service.png)
+![Create Service](Images/create-edit_service.png)
 
 #### SChedule Business
 ![Schedule Business](Images/schedule_business.png)
